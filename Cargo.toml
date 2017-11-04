@@ -1,0 +1,8 @@
+[package]
+name = "tcping"
+version = "0.1.0"
+authors = ["Yilin Chen <sticnarf@gmail.com>"]
+
+[dependencies]
+clap = "2.27.1"
+ansi_term = "0.10"
